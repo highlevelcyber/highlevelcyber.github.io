@@ -24,12 +24,12 @@ Be sure to also check out the [Cyber Career Guide](https://highlevelcyber.github
 
 ### **Level 0**: *Prepare For Your Journey*
 
-Before starting your cyber journey, construct your LinkedIn profile and resume. You’ll be periodically updating these throughout your travels. 
+Before starting your cyber journey, let's construct your LinkedIn profile and resume. You’ll be periodically updating these throughout your travels. 
 Also, be sure to join communities of cyber professionals. Participating in these networking groups provides you with the opportunity to connect and collaborate with others.
 * Test 1
 * Test 2
-* [Test 3](google.com)
-* [Test 4](google.com)
+* [Test 3](https://google.com)
+* [Test 4](https://google.com)
 
 
 ### Level 1: 
@@ -37,8 +37,8 @@ Before starting your cyber journey, construct your LinkedIn profile and resume. 
 
 * Test 1
 * Test 2
-* [Test 3](google.com)
-* [Test 4](google.com)
+* [Test 3](https://google.com)
+* [Test 4](https://google.com)
 
 <br>
 
@@ -47,8 +47,8 @@ Before starting your cyber journey, construct your LinkedIn profile and resume. 
 
 * Test 1
 * Test 2
-* [Test 3](google.com)
-* [Test 4](google.com)
+* [Test 3](https://google.com)
+* [Test 4](https://google.com)
 
 > :bulb: **Tip:** This is a test to see how this 'Tip' prompt option looks.
 
