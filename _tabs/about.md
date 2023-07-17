@@ -28,8 +28,7 @@ This guide will assist you through your journey no matter where you're at in you
 Before starting your cyber journey, be sure to research the different roles in cybersecurity. This will help you identify your interests and enable you to focus your studies on specific areas of expertise.
 * [Types of Cybersecurity Roles](https://google.com)
 
-Now, let's construct your LinkedIn profile, resume, and portfolio website. You’ll be periodically updating these throughout your travels. 
-* [Resume Checklist and Tips](https://google.com)
+Now, let's construct your LinkedIn profile and portfolio website. You’ll be periodically updating these throughout your travels. 
 * [LinkedIn Checklist and Tips](https://google.com)
 * [Create a Personal Cyber Portfolio Website](https://google.com)
 * [Build your brand](https://google.com)
@@ -42,8 +41,11 @@ Also, be sure to join communities of cyber professionals. Engaging in these netw
 
 ### **Level 1**: *Develop Your Knowledge*
 Your journey has begun! There are plenty of free and affordable courses to help you strengthen your knowledge of IT and cybersecurity concepts. Certifications can help you stand out from other job candidates as they provide tangible evidence of your knowledge, skills, and expertise in the field of cybersecurity. 
-* [Test](https://google.com)
-* [Test](https://google.com)
+* [Certifications](https://google.com)
+* [Free and Affordable Courses](https://google.com)
+
+It's important to stay informed on recent events and trends in the world of cybersecurity. Thankfully, there are plenty of valuable resources that will help you stay up-to-date. 
+* [Stay informed and up to date](https://google.com)
 
 
 ### **Level 2**: *Gain Hands-on Experience*
@@ -63,26 +65,4 @@ Test test test test test test test test test test test test test test test test 
 * [Test](https://google.com)
 
 ### **Level 5**: *Congrats!*
-Test test test test test test test test test test test test test test test test test test. Test test test test test test test test test test test test test test test test test test test test test test test test test.
-* [Test](https://google.com)
-* [Test](https://google.com)
-* <mark>Highlight:</mark> Testing if this highlight feature works. (ex. test 1, 2, 3)
-
-<details> 
-<summary><strong>Dropdown Title</strong></summary>
-<img src="https://m.media-amazon.com/images/I/51WBUH+hZEL.jpg">
-<img src="https://www.retropcstore.com/wp-content/uploads/2020/03/im1.png">
-<h1>Test Heading!</h1>
-  <p>Test sentence #1. Test sentence #2.<br> <br> Test sentence #3.</p>
-</details>
-
-<details>
-  <summary>Test Nested</summary>
-  <blockquote>
-    <img src="https://www.retropcstore.com/wp-content/uploads/2020/03/im1.png">
-    <h1>Test Heading!</h1>
-    <p>Test sentence #1. Test sentence #2.<br> <br> Test sentence #3.</p>
-    <a href="https://google.com">Go to Google.com</a>
-  </blockquote>
-</details>
-
+It'd been a long and eventful journey, but you've successfully broken into the cybersecurity workforce! Congratulations on this exciting new chapter of your life. What should you do now? Well, that's up to you. Take some time to really appreciate all of the hard work and accomplishments that got you to this moment. You should be extremely proud of yourself. Though you've reached the end of your journey breaking into the cybersecurity world, your **cyber career** seems to have just begun...
