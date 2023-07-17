@@ -63,4 +63,12 @@ Test test test test test test test test test test test test test test test test 
   <p>Test sentence #1. Test sentence #2.<br> <br> Test sentence #3.</p>
 </details>
 
+<details><summary>Test Nested</summary><blockquote>
+  <details><summary>click me to open</summary><blockquote>
+    :smile:
+  </blockquote></details>
+  <details open><summary>World</summary><blockquote>
+    :smile:
+  </blockquote></details>
+</blockquote></details>
 
