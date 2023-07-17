@@ -64,5 +64,5 @@ Test test test test test test test test test test test test test test test test 
 * [Test](https://google.com)
 * [Test](https://google.com)
 
-### **Level 5**: *Congrats!*
-It'd been a long and eventful journey, but you've successfully broken into the cybersecurity workforce! Congratulations on this exciting new chapter of your life. What should you do now? Well, that's up to you. Take some time to really appreciate all of the hard work and accomplishments that got you to this moment. You should be extremely proud of yourself. Though you've reached the end of your journey breaking into the cybersecurity world, your career in cyber has only just begun!
+### **Level 5**: *Congratulations!*
+It's been a long and eventful journey, but you've successfully broken into the cybersecurity workforce! Congrats on starting this exciting new chapter. What should you do now? Well, that's up to you to decide. Take some time to appreciate all of the hard work and accomplishments that got you to this moment. You should be extremely proud of yourself. Though you've reached the end of this journey of entering the cybersecurity world, your career in cyber has only just begun!
