@@ -22,13 +22,13 @@ Before starting your cyber journey, let's construct your LinkedIn profile and re
 * [Resume Checklist and Tips](https://google.com)
 * [LinkedIn Checklist and Tips](https://google.com)
 * [Create a Personal Cyber Portfolio Website](https://google.com)
-* [Build your brand](https:google.com)
+* [Build your brand](https://google.com)
 
 Also, be sure to join communities of cyber professionals. Engaging in these networking groups provides you with the opportunity to connect and collaborate with others. The relationships you build will help you build relationships, connect with mentors, and learn about job opportunities. Share your journey with others! 
 * [Test](https://google.com)
 * [Test](https://google.com)
 
-> **_Suggestion_** – This is your opportunity to start documenting your journey! Engage with other cyber professionals and inquire how their journey is going. 
+> **_Suggestion_** – This is your opportunity to start documenting your journey! Engage with other cyber professionals, share what you're working on, and inquire how their journey is going. 
 
 ### **Level 1**: *Develop Your Knowledge*
 Your journey has begun! There are plenty of free and affordable courses to help you strengthen your knowledge of IT and cybersecurity concepts. Certifications can help you stand out from other job candidates as they provide tangible evidence of your knowledge, skills, and expertise in the field of cybersecurity. 
