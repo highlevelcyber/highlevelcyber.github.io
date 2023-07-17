@@ -14,11 +14,16 @@ Welcome to **High Level Cyber**. There are SO many cyber resources available now
 > Interested in breaking into cybersecurity? Check out this guide!
 {: .prompt-tip }
 
+> [Level 0](https://google.com) | [Level 1](https://google.com) | [Level 2](https://google.com) | [Level 3](https://google.com) | [Level 4](https://google.com) | [Level 5](https://google.com)
+
 This guide will assist you through your journey no matter where you're at in your cyber career. It'll help you *level up* your knowledge, skills, and confidence. Feel free to jump back and forth between levels as needed!
 
 ### **Level 0**: *Prepare For Your Journey*
 
-Before starting your cyber journey, let's construct your LinkedIn profile and resume. Optionally, you could also create a personal portfolio website. You’ll be periodically updating these throughout your travels. 
+Before starting your cyber journey, be sure to research the different roles in cybersecurity. This will help you identify your interests and enable you to focus your studies on specific areas of expertise.
+* [Types of Cybersecurity Roles](https://google.com)
+
+Now, let's construct your LinkedIn profile, resume, and portfolio website. You’ll be periodically updating these throughout your travels. 
 * [Resume Checklist and Tips](https://google.com)
 * [LinkedIn Checklist and Tips](https://google.com)
 * [Create a Personal Cyber Portfolio Website](https://google.com)
@@ -41,10 +46,11 @@ Test test test test test test test test test test test test test test test test 
 * [Test](https://google.com)
 * [Test](https://google.com)
 
-### **Level 3**: *Resume and Job-hunt Prep*
+### **Level 3**: *Job-hunt Prep*
 Test test test test test test test test test test test test test test test test test test. Test test test test test test test test test test test test test test test test test test test test test test test test test.
-* [Test](https://google.com)
-* [Test](https://google.com)
+* [Resume Checklist and Tips](https://google.com)
+* [Cover Letter Checklist and Tips](https://google.com)
+* [LinkedIn Checklist and Tips](https://google.com)
 
 ### **Level 4**: *Interview Prep*
 Test test test test test test test test test test test test test test test test test test. Test test test test test test test test test test test test test test test test test test test test test test test test test.
