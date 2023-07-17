@@ -16,8 +16,7 @@ Welcome to **High Level Cyber**. There are SO many cyber resources available now
 
 This guide will assist you through your journey no matter where you're at in your cyber career. It'll help you *level up* your knowledge, skills, and confidence. Feel free to jump back and forth between levels as needed!
 
-> **[Level 0](https://google.com)**: *Prepare For Your Journey*
-> 
+> **[Level 0](https://google.com)**: *Prepare For Your Journey* <br>
 > **[Level 1](https://google.com)**: *Develop Your Knowledge* <br>
 > **[Level 2](https://google.com)**: *Gain Hands-on Experience* <br>
 > **[Level 3](https://google.com)**: *Job-hunt Prep* <br>
