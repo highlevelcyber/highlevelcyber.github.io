@@ -56,12 +56,11 @@ Test test test test test test test test test test test test test test test test 
 * <mark>Highlight:</mark> Testing if this highlight feature works. (ex. test 1, 2, 3)
 
 <details> 
-<summary><strong>Dropdown Test</strong></summary>
-
+<summary><strong>Dropdown Title</strong></summary>
 <img src="https://m.media-amazon.com/images/I/51WBUH+hZEL.jpg">
 <img src="https://www.retropcstore.com/wp-content/uploads/2020/03/im1.png">
-<h1>Welcome!</h1>
-  <p>This is my digital portfolio where I document my InfoSec journey. It also contains articles/notes that I've written during my academic and personal research.<br> <br> Feel free to take a look around!</p>
+<h1>Test Heading!</h1>
+  <p>Test sentence #1. Test sentence #2.<br> <br> Test sentence #3.</p>
 </details>
 
 
