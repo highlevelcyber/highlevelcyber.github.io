@@ -63,12 +63,14 @@ Test test test test test test test test test test test test test test test test 
   <p>Test sentence #1. Test sentence #2.<br> <br> Test sentence #3.</p>
 </details>
 
-<details><summary>Test Nested</summary><blockquote>
-  <details><summary>click me to open</summary><blockquote>
-    :smile:
-  </blockquote></details>
-  <details open><summary>World</summary><blockquote>
-    :smile:
-  </blockquote></details>
-</blockquote></details>
+<details>
+  <summary>Test Nested</summary>
+  <blockquote>
+    <img src="/assets/images/image-1.png">
+    <img src="/assets/images/image-2.png">
+    <h1>Test Heading!</h1>
+    <p>Test sentence #1. Test sentence #2.<br> <br> Test sentence #3.</p>
+    <a href="https://google.com">Go to Google.com</a>
+  </blockquote>
+</details>
 
