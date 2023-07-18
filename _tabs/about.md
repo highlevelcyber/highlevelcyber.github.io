@@ -29,35 +29,36 @@ Before starting your cyber journey, be sure to research the different roles in c
 * [Types of Cybersecurity Roles](https://google.com)
 
 Now, let's construct your LinkedIn profile and portfolio website. You’ll be periodically updating these throughout your travels. 
-* [LinkedIn Checklist and Tips](https://google.com)
+* [LinkedIn Profile Checklist and Tips](https://google.com)
 * [Create a Personal Cyber Portfolio Website](https://google.com)
-* [Build your brand](https://google.com)
+* [Build Your Professional Brand](https://google.com)
 
 Also, be sure to join communities of cyber professionals. Engaging in these networking groups provides you with the opportunity to connect and collaborate with others. The relationships you build will help you build relationships, connect with mentors, and learn about job opportunities. Share your journey with others! 
-* [Test](https://google.com)
-* [Test](https://google.com)
+* [Networking in Cyber Communities](https://google.com)
 
 > **_Suggestion_** – This is your opportunity to start documenting your journey! Engage with other cyber professionals, share what you're working on, and inquire how their journey is going. 
 
 ### **Level 1**: *Develop Your Knowledge*
 Your journey has begun! There are plenty of free and affordable courses to help you strengthen your knowledge of IT and cybersecurity concepts. Certifications can help you stand out from other job candidates as they provide tangible evidence of your knowledge, skills, and expertise in the field of cybersecurity. 
-* [Certifications](https://google.com)
+* [Certifications Overview - IT and Cyber](https://google.com)
 * [Free and Affordable Courses](https://google.com)
 
 It's important to stay informed on recent events and trends in the world of cybersecurity. Thankfully, there are plenty of valuable resources that will help you stay up-to-date. 
-* [Stay informed and up to date](https://google.com)
+* [Keeping Up With Cybersecurity (Stay informed and up to date)](https://google.com)
 
 
 ### **Level 2**: *Gain Hands-on Experience*
 Test test test test test test test test test test test test test test test test test test. Test test test test test test test test test test test test test test test test test test test test test test test test test.
-* [Test](https://google.com)
-* [Test](https://google.com)
+* [Build a Virtual Homelab](https://google.com)
+* [Homelab Project Ideas/Examples](https://google.com)
+* [Free/Affordable Cyber Lab Websites](https://google.com)
+* [Internships in Cyber](https://google.com)
 
 ### **Level 3**: *Job-hunt Prep*
 Test test test test test test test test test test test test test test test test test test. Test test test test test test test test test test test test test test test test test test test test test test test test test.
-* [Resume Checklist and Tips](https://google.com)
-* [Cover Letter Checklist and Tips](https://google.com)
-* [LinkedIn Checklist and Tips](https://google.com)
+* [Resume Checklist, Tips, and Examples](https://google.com)
+* [Cover Letter Checklist, Tips, and Examples](https://google.com)
+* [LinkedIn Profile Checklist and Tips](https://google.com)
 
 ### **Level 4**: *Interview Prep*
 Test test test test test test test test test test test test test test test test test test. Test test test test test test test test test test test test test test test test test test test test test test test test test.
