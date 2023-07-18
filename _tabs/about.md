@@ -38,7 +38,7 @@ Also, be sure to join communities of cyber professionals. Engaging in these netw
 
 > **_Suggestion_** – This is your opportunity to start documenting your journey! Engage with other cyber professionals, share what you're working on, and inquire how their journey is going. 
 
-### **Level 1**: *Develop Your Knowledge*
+### **Level 1**: *Knowledge Training*
 Your journey has begun! There are plenty of free and affordable courses to help you strengthen your knowledge of IT and cybersecurity concepts. Certifications can help you stand out from other job candidates as they provide tangible evidence of your knowledge, skills, and expertise in the field of cybersecurity. 
 * [Certifications Overview - IT and Cyber](https://google.com)
 * [Free and Affordable Courses](https://google.com)
@@ -47,8 +47,8 @@ It's important to stay informed on recent events and trends in the world of cybe
 * [Keeping Up With Cybersecurity (Stay informed and up to date)](https://google.com)
 
 
-### **Level 2**: *Gain Hands-on Experience*
-Test test test test test test test test test test test test test test test test test test. Test test test test test test test test test test test test test test test test test test test test test test test test test.
+### **Level 2**: *Hands-on Training*
+Hands-on Experience test test test test test test test test test test test test test test test test. Test test test test test test test test test test test test test test test test test test test test test test test test test.
 * [Build a Virtual Homelab](https://google.com)
 * [Homelab Project Ideas/Examples](https://google.com)
 * [Free/Affordable Cyber Lab Websites](https://google.com)
