@@ -44,7 +44,7 @@ Your journey has begun! There are plenty of free and affordable courses to help 
 * [Free and Affordable Courses](https://google.com)
 
 It's important to stay informed on recent events and trends in the world of cybersecurity. Thankfully, there are plenty of valuable resources that will help you stay up-to-date. 
-* [Keeping Up With Cybersecurity (Stay informed and up to date)](https://google.com)
+* [Sources for Cyber News & Knowledge (Podcasts, YouTube, Websites, etc.)](https://google.com)
 
 
 ### **Level 2**: *Hands-on Training*
