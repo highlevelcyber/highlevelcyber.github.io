@@ -1,6 +1,6 @@
 ---
 title: Digital Forensics and Incident Response (SANS Cheatsheets)
-category: Defensive & Reactive Cybersecurity
+categories: [Defensive & Reactive Cybersecurity]
 tags: [Defensive & Reactive Cybersecurity, DFIR, IR, Digital Forensics, Incident Response]
 ---
 
