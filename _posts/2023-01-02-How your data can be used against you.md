@@ -1,6 +1,6 @@
 ---
 title: How your data can be used against you
-category: Personal Security Tips
+categories: Personal Security Tips
 tags: [Personal Security Tips]
 ---
 
