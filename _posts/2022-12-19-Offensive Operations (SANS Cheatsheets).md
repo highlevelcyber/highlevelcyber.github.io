@@ -1,6 +1,6 @@
 ---
 title: Offensive Operations (SANS Cheatsheets)
-category: Offensive Cybersecurity
+categories: Offensive Cybersecurity
 tags: [Offensive Cybersecurity, Cheatsheets]
 ---
 
