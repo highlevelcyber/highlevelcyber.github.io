@@ -1,6 +1,6 @@
 ---
 title: Cover Letter Checklist, Tips, and Examples
-category: Career Resources, Job-Hunt Prep
+categories: [Career Resources, Job-Hunt Prep]
 tags: [Career, Cover Letter]
 ---
 
