@@ -1,6 +1,6 @@
 ---
 title: NIST Cybersecurity Framework (CSF) - Overview
-category: Security Frameworks - Defensive
+category: Security Frameworks, Defensive Frameworks
 tags: [Security Frameworks]
 ---
 ## Introduction
@@ -12,10 +12,9 @@ The CSF offers a flexible way to address cybersecurity, including cybersecurity�
 
 The NIST CSF consists of three parts: 
 
-- [A] **Framework Core**
-      - 5 different functions (ID, PR, DE, RS, RC), and 22 total categories. 
-****[B] **Implementation Tiers**
-[C] **Framework Profiles**
+- [A] **Framework Core** - 5 different functions (ID, PR, DE, RS, RC), and 22 total categories.
+- [B] **Implementation Tiers**
+- [C] **Framework Profiles**
 
 ### [A] Framework Core
 
@@ -23,11 +22,11 @@ The Framework Core is a set of cybersecurity activities, outcomes, and informati
 
 - Functions organize basic cybersecurity activities at their highest level. These five Functions are *Identify*, *Protect*, *Detect*, *Respond*, and *Recover*:
     - [1] **Identify (ID)** — Develop an organizational understanding to manage cybersecurity risk to: systems, assets, data, and capabilities.
-    [2] **Protect (PR)** — Develop and implement the appropriate safeguards to ensure delivery of services.
-    [3] **Detect (DE)** — Develop and implement the appropriate activities to identify the occurrence of a cybersecurity event.
-    [4] **Respond (RS)** — Develop and implement the appropriate activities to take action regarding a detected cybersecurity event
-    [5] **Recover (RC)** — Develop and implement the appropriate activities to maintain plans for resilience and to restore any capabilities or services that were impaired due to a cybersecurity event.
-    - Together, these five functions provide a comprehensive perspective on managing cybersecurity risk over time.
+    - [2] **Protect (PR)** — Develop and implement the appropriate safeguards to ensure delivery of services.
+    - [3] **Detect (DE)** — Develop and implement the appropriate activities to identify the occurrence of a cybersecurity event.
+    - [4] **Respond (RS)** — Develop and implement the appropriate activities to take action regarding a detected cybersecurity event
+    - [5] **Recover (RC)** — Develop and implement the appropriate activities to maintain plans for resilience and to restore any capabilities or services that were impaired due to a cybersecurity event.
+     > Together, these five functions provide a comprehensive perspective on managing cybersecurity risk over time.
 - Categories are the subdivisions of a Function into groups of cybersecurity outcomes, closely tied to programmatic needs and particular activities (ex. “Asset Management,” “Identity and Access Management,” “Detection Processes,” etc.). There are 22 total categories.
 - Subcategories divides a Category into specific outcomes of technical and/or management activities.
 - Informative References are specific sections of standards, guidelines, and practices common among critical infrastructure sectors that illustrate a method to achieve the outcomes associated with each Subcategory.
