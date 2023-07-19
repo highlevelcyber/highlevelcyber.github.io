@@ -1,6 +1,6 @@
 ---
 title: NIST Cybersecurity Framework (CSF) - Overview
-category: Security Frameworks, Defensive Frameworks
+categories: [Security Frameworks, Defensive Frameworks]
 tags: [Security Frameworks]
 ---
 ## Introduction
