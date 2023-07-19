@@ -1,6 +1,6 @@
 ---
 title: Resume Checklist, Tips, and Examples
-category: Career Resources, Job-Hunt Prep
+categories: [Career Resources, Job-Hunt Prep]
 tags: [Career, Resume]
 ---
 
