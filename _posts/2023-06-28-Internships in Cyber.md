@@ -1,6 +1,6 @@
 ---
 title: Internships in Cyber
-category: Career Resources, Hands-On Training
+categories: [Career Resources, Hands-On Training]
 tags: [Career, Hands-On, Internships]
 ---
 
