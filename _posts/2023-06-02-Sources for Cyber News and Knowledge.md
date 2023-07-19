@@ -1,6 +1,6 @@
 ---
 title: Sources for Cyber News & Knowledge (Podcasts, YouTube, Websites, etc.)
-category: Career Resources, Knowledge Training
+categories: [Career Resources, Knowledge Training]
 tags: [Career]
 ---
 
