@@ -1,6 +1,6 @@
 ---
 title: LinkedIn Profile Checklist and Tips
-category: Career Resources, Job-Hunt Prep
+categories: [Career Resources, Job-Hunt Prep]
 tags: [Career, LinkedIn]
 ---
 
