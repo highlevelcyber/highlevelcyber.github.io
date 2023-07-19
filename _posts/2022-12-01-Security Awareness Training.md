@@ -1,6 +1,6 @@
 ---
 title: Security Awareness Training
-category: Defensive & Reactive Cybersecurity 
+categories: [Defensive & Reactive Cybersecurity]
 tags: [Defensive & Reactive Cybersecurity, Security Awareness Training]
 ---
 ## Introduction
