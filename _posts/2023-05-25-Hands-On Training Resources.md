@@ -1,6 +1,6 @@
 ---
 title: Hands-On Training Resources
-category: Career Resources, Hands-On Training
+categories: [Career Resources, Hands-On Training]
 tags: [Career, Hands-On]
 ---
 
