@@ -1,6 +1,6 @@
 ---
 title: Incident Response (IR)
-category: Defensive & Reactive Cybersecurity
+categories: Defensive & Reactive Cybersecurity
 tags: [Defensive & Reactive Cybersecurity, Incident Response, IR]
 ---
 
