@@ -1,6 +1,6 @@
 ---
 title: Python Training Resources
-category: Career Resources, Hands-On Training
+categories: [Career Resources, Hands-On Training]
 tags: [Career, Hands-On, Homelab, Python, Coding]
 ---
 
