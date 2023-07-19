@@ -1,6 +1,6 @@
 ---
 title: NIST Special Publications (SP) 800-Series
-category: Security Frameworks - Defensive
+category: Security Frameworks, Defensive Frameworks
 tags: [Security Frameworks]
 ---
 ## Introduction
