@@ -16,13 +16,13 @@ Welcome to **High Level Cyber**! The abundance of cybersecurity resources availa
 
 This guide is designed to support you through your career journey, regardless of your cyber skill level. It aims to *level Up* your knowledge, skills, and confidence. 
 
-> Feel free to jump back and forth between levels as necessary!
 > * **[Level 0](https://www.highlevelcyber.io/about/#level-0-prepare-for-your-journey)**: *Prepare For Your Journey* <br>
 > * **[Level 1](https://www.highlevelcyber.io/about/#level-1-knowledge-training)**: *Develop Your Knowledge* <br>
 > * **[Level 2](https://www.highlevelcyber.io/about/#level-2-hands-on-training)**: *Gain Hands-on Experience* <br>
 > * **[Level 3](https://www.highlevelcyber.io/about/#level-3-job-hunt-prep)**: *Job-hunt Prep* <br>
 > * **[Level 4](https://www.highlevelcyber.io/about/#level-4-interview-prep)**: *Interview Prep* <br>
 > * **[Level 5](https://www.highlevelcyber.io/about/#level-5-congratulations)**: *Congrats!*
+> Feel free to jump back and forth between levels as necessary!
 
 ### **Level 0**: *Prepare For Your Journey*
 
