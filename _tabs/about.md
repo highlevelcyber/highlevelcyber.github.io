@@ -6,7 +6,7 @@ order: 1
 
 ---
 
-Welcome to **High Level Cyber**. There are SO many cyber resources available nowadays, which is fantastic! But this can become overwhelming, especially for folks new to cybersecurity. This site is designed to help you advance your cyber career by presenting many of these resources in a structured, "high-level" manner. Head over to the **[CATEGORIES](https://highlevelcyber.github.io/categories)** page to view these resources and other articles we have written. 
+Welcome to **High Level Cyber**. There are SO many cyber resources available nowadays, which is fantastic! But this can become overwhelming, especially for folks new to cybersecurity. This site is designed to help you advance your cyber career by presenting many of these resources in a structured, "high-level" manner. Head over to the **[📂CATEGORIES](https://www.highlevelcyber.io/categories/)** page to view these resources and other articles we have written. 
 
 ## The **Level Up Cyber** Guide
 ---
@@ -16,12 +16,12 @@ Welcome to **High Level Cyber**. There are SO many cyber resources available now
 
 This guide will assist you through your journey no matter where you're at in your cyber career. It'll help you *level up* your knowledge, skills, and confidence. Feel free to jump back and forth between levels as needed!
 
-> **[Level 0](https://google.com)**: *Prepare For Your Journey* <br>
-> **[Level 1](https://google.com)**: *Develop Your Knowledge* <br>
-> **[Level 2](https://google.com)**: *Gain Hands-on Experience* <br>
-> **[Level 3](https://google.com)**: *Job-hunt Prep* <br>
-> **[Level 4](https://google.com)**: *Interview Prep* <br>
-> **[Level 5](https://google.com)**: *Congrats!*
+> **[Level 0](https://www.highlevelcyber.io/about/#level-0-prepare-for-your-journey)**: *Prepare For Your Journey* <br>
+> **[Level 1](https://www.highlevelcyber.io/about/#level-1-knowledge-training)**: *Develop Your Knowledge* <br>
+> **[Level 2](https://www.highlevelcyber.io/about/#level-2-hands-on-training)**: *Gain Hands-on Experience* <br>
+> **[Level 3](https://www.highlevelcyber.io/about/#level-3-job-hunt-prep)**: *Job-hunt Prep* <br>
+> **[Level 4](https://www.highlevelcyber.io/about/#level-4-interview-prep)**: *Interview Prep* <br>
+> **[Level 5](https://www.highlevelcyber.io/about/#level-5-congratulations)**: *Congrats!*
 
 ### **Level 0**: *Prepare For Your Journey*
 
