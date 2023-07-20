@@ -1,6 +1,6 @@
 ---
 title: How to secure your home network
-categories: Personal Security Tips
+category: Personal Security Tips
 tags: [Personal Security Tips]
 ---
 
