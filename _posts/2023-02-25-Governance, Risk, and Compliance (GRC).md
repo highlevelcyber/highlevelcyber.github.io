@@ -1,6 +1,6 @@
 ---
 title: Governance, Risk, and Compliance (GRC)
-category: Defensive & Reactive Cybersecurity
+categories: [Defensive & Reactive Cybersecurity]
 tags: [Defensive & Reactive Cybersecurity, GRC, Governance, Risk, Compliance]
 ---
 
