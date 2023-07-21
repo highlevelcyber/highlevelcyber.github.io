@@ -68,4 +68,4 @@ Preparing before a cybersecurity interview is crucial to showcase your expertise
 * [Interview Prep - Tips and Questions](/posts/Interview-Prep-Tips-and-Questions/)
 
 ### **Level 5**: *Congratulations!*
-Congratulations on successfully breaking into the cybersecurity workforce! It's been a long and eventful journey, but you made it to this exciting new chapter. Now, it's up to you to decide what to do next. Take some time to appreciate all of your hard work and accomplishments that led you to this moment. You should feel incredibly proud of yourself. Although you have reached the end of this journey of entering the cybersecurity world, your career in cyber has only just begun!
+Congratulations on successfully breaking into the cybersecurity workforce! It's been a long and eventful journey, but you made it to this exciting new chapter. Now, it's up to you to decide what to do next. Take some time to appreciate all of your hard work and accomplishments that led you to this moment. You should feel incredibly proud of yourself. Although your _journey_ into cybersecurity has ended, your **_career_** in cybersecurity has only just begun!
