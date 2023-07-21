@@ -4,6 +4,8 @@ categories: [Career Resources, Knowledge Training]
 tags: [Career, Certifications]
 ---
 
-> **Work in progress**. Please check back soon!
-{: .prompt-warning }
+## Resources:
+
+- Security Certification Roadmap [(Pauljerimy.com)](https://pauljerimy.com/security-certification-roadmap/)
+- Certifications vs Degree – A Comprehensive Guide [(Examsdigest.com)](https://examsdigest.com/choosing-your-path-in-it-certifications-vs-degree-a-comprehensive-guide/)
 
