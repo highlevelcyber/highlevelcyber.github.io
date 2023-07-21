@@ -1,5 +1,5 @@
 ---
-title: How to Set Up a Secure Virtual Homelab Environment
+title: Set Up a Virtual Homelab (Includes Project Ideas)
 categories: [Career Resources, Hands-On Training]
 tags: [Career, Hands-On, Homelab]
 ---
