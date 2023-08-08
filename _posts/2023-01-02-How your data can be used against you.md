@@ -1,7 +1,7 @@
 ---
-title: How your data can be used against you
-category: Personal Security Tips
-tags: [Personal Security Tips]
+title: Guide - How your data can be used against you
+categories: [Security Guides, Personal Security Guides] 
+tags: [Security Guides]
 ---
 
 ## Introduction
