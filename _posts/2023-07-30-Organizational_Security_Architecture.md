@@ -1,5 +1,5 @@
 ---
-title: Guide - Securing an Organization 
+title: Guide - Organizational Security Architecture 
 categories: [Security Guides, Organizational Security Guides] 
 tags: [Security Guides]
 ---
