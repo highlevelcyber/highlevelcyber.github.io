@@ -1,6 +1,6 @@
 ---
 title: Guide - Telework Security Architecture
-categories: [Security Guides, Personal Security Guides] 
+categories: [Security Guides, Organizational Security Guides] 
 tags: [Security Guides]
 ---
 
