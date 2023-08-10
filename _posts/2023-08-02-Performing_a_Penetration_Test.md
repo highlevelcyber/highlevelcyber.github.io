@@ -1,5 +1,5 @@
 ---
-title: Performing a Penetration Test
+title: Guide - Performing a Penetration Test
 categories: [Security Guides, Organizational Security Guides] 
 tags: [Security Guides]
 ---
