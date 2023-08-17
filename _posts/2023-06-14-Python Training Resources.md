@@ -4,7 +4,11 @@ categories: [Career Resources, Hands-On Training]
 tags: [Career, Hands-On, Homelab, Python, Coding]
 ---
 
-## Resources:
+## Summary
+
+Learning Python offers several benefits for cybersecurity professionals. Python's simplicity, versatility, and strong community support make it an essential tool for supporting information security. Python skills can greatly enhance a cybersecurity professional's effectiveness and efficiency in addressing security challenges, whether for automation, scripting, penetration testing, or data analysis.
+
+## Training Resources:
 
 - Python Crash Course [(Book)](https://nostarch.com/python-crash-course-3rd-edition){:target="_blank"}
 - Introduction to Programming [(edX course by Harvard)](https://www.edx.org/course/cs50s-introduction-to-programming-with-python){:target="_blank"}
