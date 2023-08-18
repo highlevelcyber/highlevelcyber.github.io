@@ -3,12 +3,12 @@ title: NIST Cybersecurity Framework (CSF) - Overview
 categories: [Security Frameworks, Defensive Frameworks]
 tags: [Security Frameworks]
 ---
-## Summary
+## __Summary__
 The NIST Cybersecurity Framework (CSF) is used to help an organization improve their cybersecurity program & posture. It focuses on using business drivers to guide cybersecurity activities and considering InfoSec risks as part of the organization’s risk management plan. 
 
 The CSF offers a flexible way to address cybersecurity, including cybersecurity’s effect on physical, cyber, and people dimensions.
 
-## Structure
+## __Structure__
 
 The NIST CSF consists of three parts: 
 
@@ -18,7 +18,7 @@ The NIST CSF consists of three parts:
   
   C. **Framework Profiles**
   
-#### A. **Framework Core**
+### A. Framework Core
 
 The Framework Core is a set of cybersecurity activities, outcomes, and informative references that are common across sectors and critical infrastructure. Elements of the Core provide detailed guidance for developing individual organizational Profiles. The Framework Core elements work together as follows:
 
@@ -36,7 +36,7 @@ The Framework Core is a set of cybersecurity activities, outcomes, and informati
 - Subcategories divides a Category into specific outcomes of technical and/or management activities.
 - Informative References are specific sections of standards, guidelines, and practices common among critical infrastructure sectors that illustrate a method to achieve the outcomes associated with each Subcategory.
 
-#### B. **Implementation Tiers**
+### B. Implementation Tiers
 
 The Tiers provide a mechanism for organizations to view and understand the characteristics of their approach to managing cybersecurity risk, which will help in prioritizing and achieving cybersecurity objectives. The tiers range from Tier 1 to Tier 4:
 
@@ -67,7 +67,7 @@ evolving, sophisticated threats.
 
 Tiers describe an increasing degree of rigor and sophistication in cybersecurity risk management practices. While organizations identified as Tier 1 (Partial) are encouraged to consider moving toward Tier 2 or greater, Tiers do not represent maturity levels. Tiers are meant to support organizational decision making about how to manage cybersecurity risk, as well as which dimensions of the organization are higher priority and could receive additional resources. Progression to higher Tiers is encouraged when a cost-benefit analysis indicates a feasible and cost-effective reduction of cybersecurity risk.
 
-#### C. **Framework Profiles**
+### C. Framework Profiles
 
 Through use of Profiles, the Framework will help an organization to align and prioritize its cybersecurity activities with its business/mission requirements, risk tolerances, and resources. 
 
@@ -84,7 +84,7 @@ Comparison of Profiles (e.g., the Current Profile and Target Profile) may reveal
 
 - An action plan to address these gaps to fulfill a given Category or Subcategory can contribute to the roadmap described above.
 
-## Steps for using the Framework (to establish or improve a cybersecurity program)
+## __Steps for using the Framework (to establish or improve a cybersecurity program)__
 
 The following steps illustrate how an organization could use the Framework to create a new cybersecurity program or improve an existing program:
 
