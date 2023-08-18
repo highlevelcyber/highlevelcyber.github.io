@@ -34,6 +34,7 @@ NIST’s SP-800 Series contains industry-leading recommendations including risk 
 - **NIST SP 800-37** (Risk Management Framework, or RMF)
     - SP 800-37 provides guidelines for applying the RMF to information systems and organizations. The RMF provides a disciplined, structured, and flexible process for managing security & privacy risk (that includes information security categorization; control selection, implementation, and assessment), system & common control authorizations, and continuous monitoring.
     - > Related Article:
+      > 
       > [📄 NIST Risk Management Framework (RMF)](https://highlevelcyber.io/posts/NIST_RMF/). 
        {: .prompt-tip }
 - **NIST SP 800-137** (InfoSec Continuous Monitoring (ISCM) for Federal Information Systems and Organizations)
