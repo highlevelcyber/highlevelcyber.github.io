@@ -3,14 +3,15 @@ title: NIST Cybersecurity Framework (CSF) - Overview
 categories: [Security Frameworks, Defensive Frameworks]
 tags: [Security Frameworks]
 ---
-## Summary
+# Summary
 The NIST Cybersecurity Framework (CSF) is used to help an organization improve their cybersecurity program & posture. It focuses on using business drivers to guide cybersecurity activities and considering InfoSec risks as part of the organization’s risk management plan. 
 
 The CSF offers a flexible way to address cybersecurity, including cybersecurity’s effect on physical, cyber, and people dimensions.
 
-## Structure
+# Structure
 
 The NIST CSF consists of three parts: 
+
   A. **Framework Core** - 5 different functions (ID, PR, DE, RS, RC), and 22 total categories.
   B. **Implementation Tiers**
   C. **Framework Profiles**
@@ -27,6 +28,7 @@ The Framework Core is a set of cybersecurity activities, outcomes, and informati
     5. **Recover (RC)** — Develop and implement the appropriate activities to maintain plans for resilience and to restore any capabilities or services that were impaired due to a cybersecurity event.
 
      > Together, these five functions provide a comprehensive perspective on managing cybersecurity risk over time.
+     {: .prompt-info }
 
 - Categories are the subdivisions of a Function into groups of cybersecurity outcomes, closely tied to programmatic needs and particular activities (ex. “Asset Management,” “Identity and Access Management,” “Detection Processes,” etc.). There are 22 total categories.
 - Subcategories divides a Category into specific outcomes of technical and/or management activities.
