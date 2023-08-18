@@ -58,6 +58,7 @@ It's important to note that conducting a cyber risk assessment requires a combin
 It's also important to mention the NIST Risk Management Framework (RMF), which is a well-known and frequently-utilized framework for managing organizational risk. It emphasizes a proactive and continuous approach to identifying, assessing, mitigating, and monitoring information systems and data risks. 
 
 > Related Article:
-> [📄 NIST Risk Management Framework (RMF)](https://highlevelcyber.io/posts/NIST_RMF/). 
+> 
+> [📄 NIST Risk Management Framework (RMF)](https://highlevelcyber.io/posts/NIST_RMF/)
    {: .prompt-info }
 
