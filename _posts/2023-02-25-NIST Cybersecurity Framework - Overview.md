@@ -12,9 +12,16 @@ The CSF offers a flexible way to address cybersecurity, including cybersecurityâ
 
 The NIST CSF consists of three parts: 
 
-  A. **Framework Core** - 5 different functions (ID, PR, DE, RS, RC), and 22 total categories.
-  B. **Implementation Tiers**
-  C. **Framework Profiles**
+A. **Framework Core** - 5 different functions (ID, PR, DE, RS, RC), and 22 total categories.
+B. **Implementation Tiers**
+C. **Framework Profiles**
+
+
+A. **Framework Core** - 5 different functions (ID, PR, DE, RS, RC), and 22 total categories.
+
+B. **Implementation Tiers**
+
+C. **Framework Profiles**
 
 ### A. **Framework Core**
 
