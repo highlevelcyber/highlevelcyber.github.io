@@ -3,7 +3,7 @@ title: NIST Special Publications (SP) 800-Series
 categories: [Security Frameworks, Defensive Frameworks]
 tags: [Security Frameworks]
 ---
-## Introduction
+## Summary
 
 The NIST 800 SP-800 Series is a set of special publications that describe United States federal government computer security policies, procedures, and guidelines. This grouping of special publications is NIST’s most applicable grouping of documents for cybersecurity. 
 
@@ -33,8 +33,9 @@ NIST’s SP-800 Series contains industry-leading recommendations including risk 
     - It could also be utilized by non-federal departments or companies.
 - **NIST SP 800-37** (Risk Management Framework, or RMF)
     - SP 800-37 provides guidelines for applying the RMF to information systems and organizations. The RMF provides a disciplined, structured, and flexible process for managing security & privacy risk (that includes information security categorization; control selection, implementation, and assessment), system & common control authorizations, and continuous monitoring.
-    - The RMF includes activities to prepare organizations to execute the framework at appropriate risk management levels.
-    - Executing the RMF tasks links essential risk management processes at the system level to risk management processes at the organization level. In addition, it establishes responsibility and accountability for the controls implemented within an organization’s information systems and inherited by those systems.
+    - > Related Article:
+      > [📄 NIST Risk Management Framework (RMF)](https://highlevelcyber.io/posts/NIST_RMF/). 
+       {: .prompt-tip }
 - **NIST SP 800-137** (InfoSec Continuous Monitoring (ISCM) for Federal Information Systems and Organizations)
     - The purpose of this ISCM guideline is to assist organizations in the development of a continuous monitoring strategy and the implementation of a continuous monitoring program providing visibility into organizational assets, awareness of threats and vulnerabilities, and visibility into the effectiveness of deployed security controls.
     - Following ISCM’s guidelines will provides ongoing assurance that planned and implemented security controls are aligned with organizational risk tolerance as well as the information needed to respond to risk in a timely manner should observations indicate that the security controls are inadequate.
