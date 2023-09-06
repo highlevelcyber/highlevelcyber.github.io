@@ -12,12 +12,12 @@ order: 1
 
 This guide is designed to support you through your career journey, regardless of your cyber skill level. It aims to *Level Up* your knowledge, skills, and confidence. 
 
-> **[◼️ Level 0](https://www.highlevelcyber.io/about/#level-0-prepare-for-your-journey)**: **_Prepare For Your Journey_** <br>
-> **[◼️ Level 1](https://www.highlevelcyber.io/about/#level-1-academic-training)**: **_Academic Training_** <br>
-> **[◼️ Level 2](https://www.highlevelcyber.io/about/#level-2-hands-on-training)**: **_Hands-on Training_** <br>
-> **[◼️ Level 3](https://www.highlevelcyber.io/about/#level-3-job-hunt-prep)**: **_Job-hunt Prep_** <br>
-> **[◼️ Level 4](https://www.highlevelcyber.io/about/#level-4-interview-prep)**: **_Interview Prep_** <br>
-> **[◼️ Level 5](https://www.highlevelcyber.io/about/#level-5-congratulations)**: **_Congrats!_** <br>
+> **[◼️ Level 0](https://www.highlevelcyber.io/career-guide/#level-0-prepare-for-your-journey)**: **_Prepare For Your Journey_** <br>
+> **[◼️ Level 1](https://www.highlevelcyber.io/career-guide/#level-1-academic-training)**: **_Academic Training_** <br>
+> **[◼️ Level 2](https://www.highlevelcyber.io/career-guide/#level-2-hands-on-training)**: **_Hands-on Training_** <br>
+> **[◼️ Level 3](https://www.highlevelcyber.io/career-guide/#level-3-job-hunt-prep)**: **_Job-hunt Prep_** <br>
+> **[◼️ Level 4](https://www.highlevelcyber.io/career-guide/#level-4-interview-prep)**: **_Interview Prep_** <br>
+> **[◼️ Level 5](https://www.highlevelcyber.io/career-guide/#level-5-congratulations)**: **_Congrats!_** <br>
 > Feel free to jump back and forth between levels as necessary!
 
 ### **Level 0**: *Prepare For Your Journey*
