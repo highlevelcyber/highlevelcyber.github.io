@@ -12,7 +12,8 @@ This high-level guide consists of 11 distinct cybersecurity domains that are wid
 
 ## __Cybersecurity Domains__
 
-### 1. **Application Security**: Explore techniques to secure software applications, from source code analysis to API security, ensuring robust protection against vulnerabilities.
+### 1. **Application Security**: 
+Explore techniques to secure software applications, from source code analysis to API security, ensuring robust protection against vulnerabilities.
 
 - **Data-Flow Diagram**: Explaining the flow of data within an application for identifying security vulnerabilities.
 - **Source Code Scan**: Techniques for scanning source code for vulnerabilities, including Static Application Security Testing (SAST) and Open Source Scan.
@@ -25,7 +26,9 @@ This high-level guide consists of 11 distinct cybersecurity domains that are wid
     - **“Shift Left”**: Early integration of security in development.
     - **CI/CD Integration**: Security in continuous integration and continuous delivery pipelines.
 
-### 2. **Risk Assessment**: The cornerstone of cybersecurity. Master the art of identifying, evaluating, and mitigating cybersecurity risks, with a focus on vulnerability scanning and penetration testing.
+### 2. **Risk Assessment**: 
+
+The cornerstone of cybersecurity. Master the art of identifying, evaluating, and mitigating cybersecurity risks, with a focus on vulnerability scanning and penetration testing.
 
 - **Vulnerability Scan**: Identifying and assessing vulnerabilities in systems.
 - **Assets Inventory**: Cataloging and managing digital assets.
@@ -39,7 +42,8 @@ This high-level guide consists of 11 distinct cybersecurity domains that are wid
     - **Application PenTests**: Focusing on application-level vulnerabilities.
     - **Red & Blue Teams**: Simulating attack and defense scenarios.
 
-### 3. **Enterprise Risk Management**: Gain insights into enterprise-level risk management, including strategies for risk treatment, cyber insurance, and crisis management. How organizations can prepare for and respond to cybersecurity threats.
+### 3. **Enterprise Risk Management**: 
+Gain insights into enterprise-level risk management, including strategies for risk treatment, cyber insurance, and crisis management. How organizations can prepare for and respond to cybersecurity threats.
 
 - **Risk Treatment Actions**: Strategies to mitigate identified risks.
 - **Risk Acceptance Statement**: Formalizing the acceptance of certain risks.
@@ -54,14 +58,16 @@ This high-level guide consists of 11 distinct cybersecurity domains that are wid
     3. **Audit**: 
         1. **SOC1/SOC2**: Auditing standards for service organizations.
 
-### 4. **Physical Security**: Physical security is often overlooked but crucial for comprehensive protection as it complements digital safeguards. Provides protection against theft, vandalism, and unauthorized physical access. 
+### 4. **Physical Security**: 
+Physical security is often overlooked but crucial for comprehensive protection as it complements digital safeguards. Provides protection against theft, vandalism, and unauthorized physical access. 
 
 - **IoT Security**: Securing Internet of Things (IoT) devices.
 - **Physical Access control**: Restricting physical access to secure areas.
 - **Surveillance**: Monitoring physical spaces for security threats.
 - **Security guards**: Human resources for physical security.
 
-### 5. **Frameworks and Standards**: Frameworks and standards provide guidelines and best practices for organizations to establish and maintain effective cybersecurity programs. Readers will learn how to align their security practices with industry standards.
+### 5. **Frameworks and Standards**: 
+Frameworks and standards provide guidelines and best practices for organizations to establish and maintain effective cybersecurity programs. Readers will learn how to align their security practices with industry standards.
 
 - **MITRE ATT&CK Framework**: Understanding and countering adversary tactics.
 - **OWASP Top 10 (WebApp & API)**: Identifying and mitigating top web application and API vulnerabilities.
@@ -74,7 +80,8 @@ This high-level guide consists of 11 distinct cybersecurity domains that are wid
     - **ISO 27017**: Cloud security.
     - **ISO 27018**: Personal data protection.
 
-### 6. **Governance**: Effective governance is essential for compliance and security. Navigate the complex landscape of laws, regulations, and corporate governance to establish robust security policies and practices.
+### 6. **Governance**: 
+Effective governance is essential for compliance and security. Navigate the complex landscape of laws, regulations, and corporate governance to establish robust security policies and practices.
 
 - **Laws and Regulations**: Legal and regulatory compliance.
     - **Regional**:
@@ -97,20 +104,23 @@ This high-level guide consists of 11 distinct cybersecurity domains that are wid
     - **Compliance & Enforcement**: Ensuring adherence to policies.
     - **Guideline**: Best practice recommendations.
 
-### 7. **Threat Intelligence**: Learn how to gather, analyze, and leverage threat intelligence to proactively defend against emerging threats.
+### 7. **Threat Intelligence**: 
+Learn how to gather, analyze, and leverage threat intelligence to proactively defend against emerging threats.
 
 - **Internal and External**: Collecting and analyzing intelligence for proactive security measures.
     - **IOCs**: Identifying potential security breaches.
     - **Intelligence Sharing**: Collaborating with other organizations.
     - **Contextual**: Understanding the broader context of threats.
 
-### 8. **User Education**: The human factor is often the weakest link in cybersecurity. Recognize the human element in cybersecurity and discover methods to educate and engage users in maintaining security.
+### 8. **User Education**: 
+The human factor is often the weakest link in cybersecurity. Recognize the human element in cybersecurity and discover methods to educate and engage users in maintaining security.
 
 - **Training (new skills)**: Developing cybersecurity skills.
 - **Awareness (reinforcement)**: Reinforcing security awareness among employees.
 - **Cybersecurity Table-top Exercise**: Simulating real-world security incidents for training.
 
-### 9. **Security Operations**: Effective security operations are essential for threat detection and response. Explore the operational aspects of cybersecurity, from vulnerability management to incident response, optimizing security efforts.
+### 9. **Security Operations**: 
+Effective security operations are essential for threat detection and response. Explore the operational aspects of cybersecurity, from vulnerability management to incident response, optimizing security efforts.
 
 - **Vulnerability Management**: Identifying and addressing vulnerabilities.
 - **Threat Hunting**: Proactively searching for threats.
@@ -126,7 +136,8 @@ This high-level guide consists of 11 distinct cybersecurity domains that are wid
     - **Investigation**: Gathering forensic evidence.
         - **Forensics**:
 
-### 10. **Security Architecture**: Involves designing and implementing security controls and measures across various aspects of IT infrastructure, ensuring robust system defenses. Gain a comprehensive understanding of building and maintaining secure systems.
+### 10. **Security Architecture**: 
+Involves designing and implementing security controls and measures across various aspects of IT infrastructure, ensuring robust system defenses. Gain a comprehensive understanding of building and maintaining secure systems.
 
 - **Cloud Security**: Security in cloud environments.
 - **Security Engineering**: Building secure systems.
@@ -152,7 +163,8 @@ This high-level guide consists of 11 distinct cybersecurity domains that are wid
         - **Privileged Access Management** (PAM): Securing administrative access.
         - **Identity & Access Management**: Managing user identities
 
-### 11. **Career Development**: Cybersecurity professionals need ongoing development. Learn how to stay current and grow within the field of cybersecurity.
+### 11. **Career Development**: 
+Cybersecurity professionals need ongoing development. Learn how to stay current and grow within the field of cybersecurity.
 
 - **Conferences**: Networking and learning opportunities.
 - **Certifications**: Professional certifications in cybersecurity.
