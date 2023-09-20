@@ -3,12 +3,12 @@ title: Comprehensive Cyber Review Guide
 categories: [Career Resources, Knowledge Training]
 tags: [Career, Courses]
 ---
-## __Summary__
+## Summary
 This high-level guide consists of 11 distinct cybersecurity domains that are widely prevalent in general cyber practices. Together, these domains create a comprehensive framework for comprehending the various facets of cybersecurity. 
 
 <details><summary>Source: Henry Jiang's "Cybersecurity Domain Map"</summary><img src="/assets/cyber_domains_2021.png"></details>
 
-## __Cybersecurity Domains__
+## Cybersecurity Domains
 
 ### 1. **Application Security**: 
 Explore techniques to secure software applications, from source code analysis to API security, ensuring robust protection against vulnerabilities.
