@@ -2,6 +2,7 @@
 title: Comprehensive Cyber Review Guide
 categories: [Career Resources, Knowledge Training]
 tags: [Career, Courses]
+pin: true
 ---
 ## Summary
 This high-level guide consists of 11 distinct cybersecurity domains that are widely prevalent in general cyber practices. Together, these domains create a comprehensive framework for comprehending the various facets of cybersecurity. 
