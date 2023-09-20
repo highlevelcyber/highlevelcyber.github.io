@@ -6,23 +6,16 @@ tags: [Career, Courses]
 # __Summary__
 This high-level guide consists of 11 distinct cybersecurity domains that are widely prevalent in general cyber practices. Together, these domains create a comprehensive framework for comprehending the various facets of cybersecurity. 
 
-> Source: These comprehensive domains are based on Henry Jiang's "[Cybersecurity Domain Map](https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang%3F)" (last updated on 04/24/2021).
-
-<details>
-  <summary>
-  
-  **Source**: Henry Jiang's Map of Cybersecurity Domains</summary>
-  <img src="/assets/cyber_domains_2021.png">
-  
-  [https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang%3](https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang%3)
-  </details>
+> Source: These comprehensive domains are based on the "[Cybersecurity Domain Map](https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang%3F)" constructed by Henry Jiang.
+> <details><summary>Cybersecurity Domain Map</summary><img src="/assets/cyber_domains_2021.png"></details>
 
 ## __Cybersecurity Domains__
 
 <details>
 <summary>
 
-1. **Application Security**: 
+## Application Security: 
+
 Explore techniques to secure software applications, from source code analysis to API security, ensuring robust protection against vulnerabilities.
 </summary>
 
@@ -44,7 +37,7 @@ Explore techniques to secure software applications, from source code analysis to
 <details>
 <summary>
 
-**Application Security**: 
+## Application Security: 
 Explore techniques to secure software applications, from source code analysis to API security, ensuring robust protection against vulnerabilities.
 </summary>
 
@@ -63,7 +56,7 @@ Explore techniques to secure software applications, from source code analysis to
 <details>
 <summary>
 
-1. **Application Security**: 
+**Application Security**: 
 Explore techniques to secure software applications, from source code analysis to API security, ensuring robust protection against vulnerabilities.
 </summary>
 
