@@ -10,9 +10,9 @@ Learning Python offers several benefits for cybersecurity professionals. Python'
 
 ## Training Resources:
 
-- [(Python Crash Course)](https://nostarch.com/python-crash-course-3rd-edition){:target="_blank"} (book)
-- [(Introduction to Programming)](https://nostarch.com/python-crash-course-3rd-edition){:target="_blank"}  (edX course by Harvard)
-- [Introduction to Programming]() [(University of Helsinki)](https://programming-22.mooc.fi/){:target="_blank"}
+- [(Python Crash Course)](https://nostarch.com/python-crash-course-3rd-edition) (book)
+- [(Introduction to Programming)](https://nostarch.com/python-crash-course-3rd-edition) (edX course by Harvard)
+- [Introduction to Programming](https://programming-22.mooc.fi) (University of Helsinki)
 - [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) (Python.org) 
 - [Beginner Python Tutorial](https://www.w3schools.com/python/default.asp) (W3Schools.com)
 - [Hands-on Python Courses](https://www.codecademy.com/catalog/language/python) (Codecademy.com)
