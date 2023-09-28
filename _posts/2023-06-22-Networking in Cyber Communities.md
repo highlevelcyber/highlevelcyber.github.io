@@ -3,11 +3,13 @@ title: Networking in Cyber Communities
 category: Career Resources
 tags: [Career, Social Networking, Cyber Communities]
 ---
+Networking within cybersecurity communities can be beneficial, especially for professionals new to the cybersecurity field. This practice offers several advantages, such as staying informed of industry trends/news, gaining insights from seasoned experts, and increasing the likelihood of forging valuable connections that may lead to job opportunities.
+
 
 ## Resources:
 
-- How do you communicate and collaborate with other cybersecurity professionals in your network? [(Linkedin.com/advice)](https://www.linkedin.com/advice/0/how-do-you-communicate-collaborate-other-cybersecurity)
-- Engage with the Cyber Community [(Securing.dev)](https://securing.dev/posts/breaking-into-infosec/#engage-with-the-community)
+- [How do you communicate and collaborate with other cybersecurity professionals in your network?](https://www.linkedin.com/advice/0/how-do-you-communicate-collaborate-other-cybersecurity) (Linkedin.com/advice)
+- [Engage with the Cyber Community](https://securing.dev/posts/breaking-into-infosec/#engage-with-the-community) (Securing.dev)
 
 #### Discord (Communities)
 - [Simply Cyber](https://discord.com/invite/SimplyCyber)
