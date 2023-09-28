@@ -10,13 +10,13 @@ Learning Python offers several benefits for cybersecurity professionals. Python'
 
 ## Training Resources:
 
-- Python Crash Course [(Book)](https://nostarch.com/python-crash-course-3rd-edition){:target="_blank"}
-- Introduction to Programming [(edX course by Harvard)](https://www.edx.org/course/cs50s-introduction-to-programming-with-python){:target="_blank"}
-- Introduction to Programming [(University of Helsinki)](https://programming-22.mooc.fi/){:target="_blank"}
-- Official Python Tutorial [(Python.org)](https://docs.python.org/3/tutorial/index.html){:target="_blank"}
-- Beginner Python Tutorial [(W3Schools.com)](https://www.w3schools.com/python/default.asp){:target="_blank"}
-- Hands-on Python Courses [(Codecademy.com)](https://www.codecademy.com/catalog/language/python){:target="_blank"}
-- Python Tutorial for Beginners [(Youtube.com)](https://www.youtube.com/watch?v=rfscVS0vtbw&t=1901s){:target="_blank"}
+- [(Python Crash Course)](https://nostarch.com/python-crash-course-3rd-edition){:target="_blank"} (book)
+- [(Introduction to Programming)](https://nostarch.com/python-crash-course-3rd-edition){:target="_blank"}  (edX course by Harvard)
+- [Introduction to Programming]() [(University of Helsinki)](https://programming-22.mooc.fi/){:target="_blank"}
+- [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) (Python.org) 
+- [Beginner Python Tutorial](https://www.w3schools.com/python/default.asp) (W3Schools.com)
+- [Hands-on Python Courses](https://www.codecademy.com/catalog/language/python) (Codecademy.com)
+- [Python Tutorial for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw&t=1901s) (Youtube.com)
 
 
 
