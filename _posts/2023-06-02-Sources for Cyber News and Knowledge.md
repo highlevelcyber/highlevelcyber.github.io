@@ -3,10 +3,12 @@ title: Sources for Cyber News & Knowledge (Podcasts, YouTube, Websites)
 categories: [Career Resources, Knowledge Training]
 tags: [Career]
 ---
+There’s a vast amount of digital resources available that provide cybersecurity knowledge and news. I’ve included a collection of well-known resources below.
+
 
 ## Resources:
 
-#### Websites
+#### **Websites**
 - [Krebs on Security](https://krebsonsecurity.com/)
 - [Dark Reading](https://www.darkreading.com/)
 - [CyberSecurityNews.com](https://cybersecuritynews.com/)
@@ -22,7 +24,7 @@ tags: [Career]
 - [SimplyCyber](https://simplycyber.io/)
 - [Feedly](https://feedly.com/) (free news aggregator)
 
-#### Podcasts
+#### **Podcasts**
 - [Defensive Security Podcast](https://open.spotify.com/show/39KvfmxCUkvsbGEAav4JS4)
 - [Darknet Diaries](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5)
 - [Brakeing Down Security](https://open.spotify.com/show/1IbTZuMBM4t6qLqdLVXl5D)
@@ -46,7 +48,7 @@ tags: [Career]
 - [Down the Security Rabbithole](https://open.spotify.com/show/0xnEHBzM0mayXFK5VKpziy)
 - [The Privacy, Security, & OSINT Show](https://open.spotify.com/show/6QPWpZJ6bRTdbkI7GgLHBM)
 
-#### YouTube Channels
+#### **YouTube Channels**
 - [TheCyberMentor](https://www.youtube.com/TheCyberMentor/)
 - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
 - [SimplyCyber](https://www.youtube.com/GeraldAuger)
